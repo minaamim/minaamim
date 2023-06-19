@@ -1,5 +1,5 @@
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=130&section=header&text=Miina&fontSize=90&animation=blink" /> <br>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F4D37A&fontColor=FFFFFF&height=110&section=header&text=Miina&fontSize=100&animation=fadeIn" /> <br>
 
 ## Projects
 
