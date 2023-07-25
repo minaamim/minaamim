@@ -1,5 +1,10 @@
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F4D37A&fontColor=FFFFFF&height=110&section=header&text=Miina&fontSize=100&animation=fadeIn" /> <br>
+  <!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=F4D37A&fontColor=FFFFFF&height=110&section=header&text=Miina&fontSize=100&animation=fadeIn" /> <br>
+  -->
+
+> Mina Hong <br>
+> Sungshin Women's University, Dept. Computer Engineering
+
 
 ## Projects
 
