@@ -29,9 +29,9 @@
 
 
 ## Skills & Tools
-  
-  <img src="https://img.shields.io/badge/C++-A9BCF5?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
+
   <img src="https://img.shields.io/badge/Java-A9BCF5?style=flat&logo=OpenJDK&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C++-A9BCF5?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/PHP-A9BCF5?style=flat&logo=PHP&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SpringBoot-A9BCF5?style=flat&logo=SpringBoot&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-A9BCF5?style=flat&logo=MySQL&logoColor=white"/></a>
@@ -50,23 +50,3 @@
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=minaamim&show_icons=true">
-
-
-
-
-
-
-<!--
-**minaamim/minaamim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
