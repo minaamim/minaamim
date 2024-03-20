@@ -8,7 +8,7 @@
 
 ## Projects
 
-**2023 Jun**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [BUY or NOT](https://github.com/DDD-Community/DDD-9-Android3-Server),&nbsp;&nbsp; Come to "buy or not"! When you have trouble with choosing clothes
+**2023 Jun**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [Buy or Not](https://github.com/DDD-Community/DDD-9-Android3-Server),&nbsp;&nbsp; Come to "Buy or Not"! When you have trouble with choosing clothes
 
 **2022 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [CHALKAK](https://github.com/Feelim/feelim-server),&nbsp;&nbsp; A to Z on the film camera!
 
