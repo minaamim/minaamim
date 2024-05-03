@@ -14,7 +14,9 @@
 
 **2022 May**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [TORIP](https://github.com/MakeUs-IMAC/IMAC-Server),&nbsp;&nbsp; Find your travel mate (**Ne(o)rdinary Hackathon**)
 
-**2022 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [STUDIT](https://github.com/Feelim/feelim-server),&nbsp;&nbsp; The very study you've been looking for
+**2022 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [STUDIT](https://github.com/Studit-Project/Studit-server),&nbsp;&nbsp; The very study you've been looking for
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;성신여자대학교 소프트웨어 경진대회 동상
 
