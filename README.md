@@ -49,3 +49,8 @@
   <img src="https://img.shields.io/badge/Discord-F5ECCE?style=flat&logo=DiscordlogoColor=white"/></a>
   <img src="https://img.shields.io/badge/Figma-F5ECCE?style=flat-square&logo=figma&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/badge/Slack-F5ECCE?style=flat-square&logo=slack&logoColor=black"/>&nbsp;
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{minaamim}"/>
+</a>
