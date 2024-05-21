@@ -51,6 +51,10 @@
   <img src="https://img.shields.io/badge/Slack-F5ECCE?style=flat-square&logo=slack&logoColor=black"/>&nbsp;
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{minaamim}"/>
+<a href="https://github.com/devxb/gitanimals/">
+<img src="https://render.gitanimals.org/lines/minaamim?pet-id=580697411014563957" height="200" width="17%" align=right/>
+  <img src="https://render.gitanimals.org/lines/minaamim?pet-id=580697411014563959" height="200" width="17%" align=right/>
+  <img src="https://render.gitanimals.org/lines/minaamim?pet-id=580697411014563960" height="200" width="17%" align=right/>
+  <img src="https://render.gitanimals.org/lines/minaamim?pet-id=580697411014563963" height="200" width="17%" align=right/>
+  <img src="https://render.gitanimals.org/lines/minaamim?pet-id=580697411018756713" height="200" width="17%" align=right/>
 </a>
