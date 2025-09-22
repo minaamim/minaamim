@@ -33,8 +33,8 @@
 ## Skills & Tools
 
   <img src="https://img.shields.io/badge/Java-A9BCF5?style=flat&logo=OpenJDK&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C++-A9BCF5?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/PHP-A9BCF5?style=flat&logo=PHP&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Kotlin-A9BCF5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Go-A9BCF5?style=flat&logo=Go&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SpringBoot-A9BCF5?style=flat&logo=SpringBoot&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-A9BCF5?style=flat&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AWS-A9BCF5?style=flat&logo=AmazonAWS&logoColor=white"/></a>
@@ -51,10 +51,3 @@
   <img src="https://img.shields.io/badge/Slack-F5ECCE?style=flat-square&logo=slack&logoColor=black"/>&nbsp;
 
 
-<a href="https://github.com/devxb/gitanimals/">
-<img src="https://render.gitanimals.org/lines/minaamim?pet-id=580697411014563957" height="200" width="17%" align=right/>
-  <img src="https://render.gitanimals.org/lines/minaamim?pet-id=580697411014563959" height="200" width="17%" align=right/>
-  <img src="https://render.gitanimals.org/lines/minaamim?pet-id=580697411014563960" height="200" width="17%" align=right/>
-  <img src="https://render.gitanimals.org/lines/minaamim?pet-id=580697411014563963" height="200" width="17%" align=right/>
-  <img src="https://render.gitanimals.org/lines/minaamim?pet-id=580697411018756713" height="200" width="17%" align=right/>
-</a>
