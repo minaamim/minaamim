@@ -30,24 +30,19 @@
 
 
 
-## Skills & Tools
+## Tech Stack
 
-  <img src="https://img.shields.io/badge/Java-A9BCF5?style=flat&logo=OpenJDK&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Kotlin-A9BCF5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Go-A9BCF5?style=flat&logo=Go&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/SpringBoot-A9BCF5?style=flat&logo=SpringBoot&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/MySQL-A9BCF5?style=flat&logo=MySQL&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/AWS-A9BCF5?style=flat&logo=AmazonAWS&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/GCP-A9BCF5?style=flat&logo=GoogleCloud&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Docker-A9BCF5?style=flat&logo=Docker&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Jenkins-A9BCF5?style=flat&logo=Jenkins&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Github Actions-A9BCF5?style=flat&logo=GithubActions&logoColor=white"/></a>
+**Language**: Go, Java, Kotlin, Node.js, Python
 
 
-  <img src="https://img.shields.io/badge/Jira-F5ECCE?style=flat-square&logo=Jira&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Notion-F5ECCE?style=flat&logo=Notion&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Discord-F5ECCE?style=flat&logo=DiscordlogoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Figma-F5ECCE?style=flat-square&logo=figma&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/Slack-F5ECCE?style=flat-square&logo=slack&logoColor=black"/>&nbsp;
+**Database**: MySQL, CockroachDB, Redis, DynamoDB
 
+
+**Infrastructure / Cloud**: AWS EC2, Lightsail, ECS, ECR
+
+
+**DevOps / Tools**: Docker, GitHub Actions, New Relic
+
+
+**Testing**: GoConvey, Kotest, mockK, Cucumber
 
