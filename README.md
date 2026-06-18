@@ -1,48 +1,98 @@
+<div align="center">
 
-  <!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=F4D37A&fontColor=FFFFFF&height=110&section=header&text=Miina&fontSize=100&animation=fadeIn" /> <br>
-  -->
+# minaamim
 
-> Mina Hong <br>
-> Sungshin Women's University, Dept. Computer Engineering
+Backend Engineer @ NEPTUNE
+
+building products with Go  
+and exploring AI-native workflows
+
+</div>
+
+<br>
+
+## now
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰 DSP
+
+```txt
+Backend Systems
+Golang
+Platform Development
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 interests
+
+```txt
+AI Agents
+Workflow Automation
+Developer Productivity
+Product Engineering
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## experience
+
+### 💜 MEEFF
+
+Backend Engineer
+
+Built and operated backend services for a global social discovery platform.
 
 
-## Projects
+---
 
-**2023 Jun**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [Buy or Not](https://github.com/DDD-Community/DDD-9-Android3-Server),&nbsp;&nbsp; Come to "Buy or Not"! When you have trouble with choosing clothes
+## featured projects
 
-**2022 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [CHALKAK](https://github.com/Feelim/feelim-server),&nbsp;&nbsp; A to Z on the film camera!
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**2022 May**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [TORIP](https://github.com/MakeUs-IMAC/IMAC-Server),&nbsp;&nbsp; Find your travel mate (**Ne(o)rdinary Hackathon**)
+### 👗 Buy or Not
 
-**2022 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [STUDIT](https://github.com/Studit-Project/Studit-server),&nbsp;&nbsp; The very study you've been looking for
+Fashion recommendation platform
 
+</td>
 
+<td width="50%" valign="top">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;성신여자대학교 소프트웨어 경진대회 동상
+### 📷 CHALKAK
 
+Film camera community service
 
+</td>
+</tr>
+</table>
 
-## Experience
+---
 
-**2023 May**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DDD 9th Server Part
+## working with
 
-**2022 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CMC 11th Server Part
+```text
+Go · Kotlin · Spring Boot
 
+AWS · ECS · Docker · GitHub Actions
 
+MySQL · PostgreSQL · Redis
+```
 
-## Tech Stack
+<br>
 
-**Language**: Go, Java, Kotlin, Node.js, Python
+<div align="center">
 
+automating the boring stuff
 
-**Database**: MySQL, CockroachDB, Redis, DynamoDB
-
-
-**Infrastructure / Cloud**: AWS EC2, Lightsail, ECS, ECR
-
-
-**DevOps / Tools**: Docker, GitHub Actions, New Relic
-
-
-**Testing**: GoConvey, Kotest, mockK, Cucumber
-
+</div>
