@@ -61,7 +61,7 @@ Built and operated backend services for a global social discovery platform.
 <tr>
 <td width="50%" valign="top">
 
-### 👗 Buy or Not
+### Buy or Not
 
 Fashion recommendation platform
 
@@ -69,7 +69,7 @@ Fashion recommendation platform
 
 <td width="50%" valign="top">
 
-### 📷 CHALKAK
+### CHALKAK
 
 Film camera community service
 
