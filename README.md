@@ -1,98 +1,38 @@
-<div align="center">
+# Mina
 
-# minaamim
+Backend Engineer at **NEPTUNE**
 
-Backend Engineer @ NEPTUNE
+I build and operate backend services for products used by people around the world.
 
-building products with Go  
-and exploring AI-native workflows
+Currently focused on **Go**, backend systems, and platform development.
 
-</div>
+## Experience
 
-<br>
+### DSP
 
-## now
+- Developing backend systems and platform features with Go
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛰 DSP
-
-```txt
-Backend Systems
-Golang
-Platform Development
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌱 interests
-
-```txt
-AI Agents
-Workflow Automation
-Developer Productivity
-Product Engineering
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## experience
-
-### 💜 MEEFF
+### MEEFF
 
 Backend Engineer
 
-Built and operated backend services for a global social discovery platform.
+- Building and operating backend services for a global social discovery platform
+- Improving service reliability, maintainability, and development workflows
 
+## Selected Projects
 
----
+- [Buy or Not](https://github.com/DDD-Community/DDD-9-Android3-Server) — Fashion recommendation platform
+- [Concurrency Control](https://github.com/minaamim/concurrency-controll) — Distributed locking example using Redisson
+- [Clean Architecture](https://github.com/minaamim/clean-architecture) — Clean Architecture implemented in Kotlin
 
-## featured projects
+## Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+`Go` `Kotlin` `Java` `Spring Boot`
 
-### 🧢 Buy or Not
+`MySQL` `PostgreSQL` `Redis`
 
-Fashion recommendation platform
+`AWS` `ECS` `Docker` `GitHub Actions`
 
-</td>
+## Interests
 
-<td width="50%" valign="top">
-
-### 📸 CHALKAK
-
-Film camera community service
-
-</td>
-</tr>
-</table>
-
----
-
-## working with
-
-```text
-Go · Kotlin · Spring Boot
-
-AWS · ECS · Docker · GitHub Actions
-
-MySQL · PostgreSQL · Redis
-```
-
-<br>
-
-<div align="center">
-
-automating the boring stuff
-
-</div>
+Backend Architecture · Service Reliability · Developer Productivity · Product Engineering
