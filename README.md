@@ -14,16 +14,14 @@ Currently focused on **Go**, backend systems, and platform development.
 
 ### MEEFF
 
-Backend Engineer
-
 - Building and operating backend services for a global social discovery platform
 - Improving service reliability, maintainability, and development workflows
 
 ## Selected Projects
 
-- [Buy or Not](https://github.com/DDD-Community/DDD-9-Android3-Server) — Fashion recommendation platform
 - [Concurrency Control](https://github.com/minaamim/concurrency-controll) — Distributed locking example using Redisson
 - [Clean Architecture](https://github.com/minaamim/clean-architecture) — Clean Architecture implemented in Kotlin
+- [Buy or Not](https://github.com/DDD-Community/DDD-9-Android3-Server) — Fashion recommendation platform
 
 ## Tech Stack
 
