@@ -2,8 +2,6 @@
 
 Backend Engineer at **NEPTUNE**
 
-I build and operate backend services for products used by people around the world.
-
 Currently focused on **Go**, backend systems, and platform development.
 
 ## Experience
