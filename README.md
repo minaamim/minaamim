@@ -6,29 +6,18 @@ Currently focused on **Go**, backend systems, and platform development.
 
 ## Experience
 
-### DSP
+### DSP (2026.04 – Present)
+- Built bid policies and revenue aggregation for a mobile ad DSP
+- Designed low-latency rebid blocking with Redis for users who already installed the advertised app
+- Built MFA, role-based access control, and audit logging for the admin platform
+- Reduced instance count by ~1/3 and cost by ~32% through instance type migration
 
-- Developing backend systems and platform features with Go
-
-### MEEFF
-
-- Building and operating backend services for a global social discovery platform
-- Improving service reliability, maintainability, and development workflows
-
-## Selected Projects
-
-- [Concurrency Control](https://github.com/minaamim/concurrency-controll) — Distributed locking example using Redisson
-- [Clean Architecture](https://github.com/minaamim/clean-architecture) — Clean Architecture implemented in Kotlin
-- [Buy or Not](https://github.com/DDD-Community/DDD-9-Android3-Server) — Fashion recommendation platform
+### MEEFF (2025.01 – 2026.05)
+- Migrated 7M+ records from MySQL to CockroachDB with zero downtime (dual write + backfill)
+- Built a friend-finder filter API with p99 5ms latency
+- Fixed goroutine leaks in a production batch service, stabilizing ECS memory utilization (25.5% → 0.68%)
 
 ## Tech Stack
-
-`Go` `Kotlin` `Java` `Spring Boot`
-
-`MySQL` `PostgreSQL` `Redis`
-
-`AWS` `ECS` `Docker` `GitHub Actions`
-
-## Interests
-
-Backend Architecture · Service Reliability · Developer Productivity · Product Engineering
+`Go` `Java`
+`MySQL` `CockroachDB` `Redis` `YDB`
+`AWS` `ECS` `Athena` `Docker` `GitHub Actions`
