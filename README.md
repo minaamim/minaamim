@@ -7,7 +7,8 @@ Currently focused on **Go**, backend systems, and platform development.
 ## Experience
 
 ### DSP (2026.04 – Present)
-- Built bid policies and revenue aggregation for a mobile ad DSP
+- Built authentication, role-based access control, and audit logging for an ad DSP admin platform
+- Developed campaign management and reporting features for internal operators
 - Designed low-latency rebid blocking with Redis for users who already installed the advertised app
 - Built MFA, role-based access control, and audit logging for the admin platform
 - Reduced instance count by ~1/3 and cost by ~32% through instance type migration
